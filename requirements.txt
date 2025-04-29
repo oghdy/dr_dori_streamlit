@@ -9,3 +9,5 @@ folium
 streamlit-folium
 torch
 fuzzywuzzy
+supabase-py
+python-multipart
